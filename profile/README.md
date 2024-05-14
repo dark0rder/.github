@@ -2,9 +2,8 @@
 
 ## Members
 
-1. Mayank Sharma (@codersharma2001) 
-2. Saikat Karmakar (@aviksaikat)
-3. Gurwinder Singh (@gurwindersinghdev)
-
+1. Saikat Karmakar (@aviksaikat)
+2. Gurwinder Singh (@gurwindersinghdev)
+3. Mohini Vasisth (@MohiniVasisth)
 
 ## Audits
